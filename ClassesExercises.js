@@ -116,7 +116,7 @@
 //     new Owner("Sally", "Jones", 19)
 // ];
 
-// let myPet = new Pet("Rex", 13, 12);
+// let myPet = new Pet("Rex", 13, 13);
 
 // console.log(Pet.getOwnerById(myPet, owners));
 
@@ -138,4 +138,7 @@ console.log(sq.area);
 
 
 // 9 Create a getter that returns the area of the Square (hint, the area is sideLength * sideLength)
+
+
+
 // 10 Create a setter for area that sets the sideLength for the given area (hint, use the Math.sqrt function to retrieve the square root of the area and assign it as the sideLength)class 
